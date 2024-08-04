@@ -1,0 +1,173 @@
+.inicio {
+
+
+    header {
+        height: 70px;
+        width: 100vw;
+        background-color: #6278F7;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 30px;
+    }
+
+    img {
+        height: 50px;
+        width: 45px;
+        margin-left: 60px;
+    }
+
+    h2 {
+        font-family: 'Roboto';
+        font-size: 16px;
+        color: #F5F6FA;
+    }
+
+    nav {
+        width: 150px;
+        height: 90px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px 0px 0px 830px;
+        gap: 20px;
+    }
+
+
+    .inicio {
+        font-family: 'Roboto';
+        text-decoration: none;
+        color: #F5F6FA;
+    }
+
+    .sobre {
+        font-family: 'Roboto';
+        text-decoration: none;
+        color: #F5F6FA;
+    }
+
+    main {
+        
+        width: 100vw;
+        height: 92.1vh;
+        padding: 0px 0px 0px 60px;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        padding-top: 52px;
+
+    }
+
+    main h2 {
+        font-family: 'Roboto';
+        font-size: 25px;
+        color: #383131;
+    }
+
+    span {
+
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+
+    }
+
+
+
+    .card1 {
+        width: 215px;
+        height: 158px;
+        background-color: #F5F6FA;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 15px 0px 0px 0px;
+        gap: 15px;
+        
+        border-radius: 12px;
+        border: none;
+    }
+
+    .card1 h3 {
+        color: #383131;
+        font-size: 14px;
+        text-decoration: none;
+    }
+
+    .card1 p {
+        color: #383131;
+        font-size: 14px;
+    }
+
+    .amarelo {
+        width: 60px;
+        height: 60px;
+        border-radius: 12px;
+        background-color: #FFCE37;
+        border: none;
+    }
+
+
+    .card2 {
+        width: 215px;
+        height: 158px;
+        background-color: #F5F6FA;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 15px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 12px;
+    }
+
+    .card2 h3 {
+        color: #383131;
+        font-size: 14px;
+    }
+
+    .card2 p {
+        color: #383131;
+        font-size: 14px;
+    }
+
+    .verde {
+        width: 60px;
+        height: 60px;
+        border-radius: 12px;
+        background-color: #B3FF37;
+    }
+
+
+    .card3 {
+        width: 215px;
+        height: 158px;
+        background-color: #F5F6FA;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 15px 0px 0px 0px;
+        gap: 12px;
+        border-radius: 12px;
+    }
+
+    .card3 h3 {
+        color: #383131;
+        font-size: 14px;
+    }
+
+    .card3 p {
+        color: #383131;
+        font-size: 14px;
+    }
+
+    .azul {
+        width: 60px;
+        height: 60px;
+        border-radius: 12px;
+        background-color: #37FFF3;
+    }
+
+
+
+
+}

@@ -1,0 +1,94 @@
+.sobre {
+
+
+    header {
+        height: 70px;
+        width: 100vw;
+        background-color: #6278F7;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        gap: 30px;
+    }
+
+    img {
+        height: 50px;
+        width: 45px;
+        margin-left: 60px;
+    }
+
+    h2 {
+        font-family: 'Roboto';
+        font-size: 16px;
+        color: #ffff;
+    }
+
+    nav {
+        width: 150px;
+        height: 90px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        padding: 0px 0px 0px 830px;
+        gap: 20px;
+    }
+
+
+    .inicio {
+        font-family: 'Roboto';
+        text-decoration: none;
+        color: #ffff;
+    }
+
+    .sobre {
+        font-family: 'Roboto';
+        text-decoration: none;
+        color: #ffff;
+    }
+
+
+    main {
+        
+        width: 100vw;
+        height: 92.1vh;
+        padding: 0px 60px 0px 60px;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        padding-top: 52px;
+    }
+
+    main h3 {
+
+        font-family: 'Roboto';
+        font-size: 25px;
+        color: #383131;
+
+    }
+
+    span {
+
+        display: flex;
+        text-align: center;
+
+    }
+
+    p {
+
+        font-size: 29px;
+        font-family: 'Roboto';
+        color: #383131;
+        line-height: 35.7px;
+    }
+
+    main img {
+
+        display: flex;
+        width: 120px;
+        height: 140px;
+        margin: 0px 0px 0px 500px;
+
+    }
+
+
+}
