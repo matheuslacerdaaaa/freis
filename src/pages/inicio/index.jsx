@@ -61,10 +61,18 @@ function App() {
 
           </div>
 
+          <div className="card4">
+            <Link className='marrom' to='/quarto'></Link>
+
+            <h3>Cálculo de tempo</h3>
+            <p>Exercício 04</p>
+          </div>
+
 
         </span>
 
       </main>
+
 
     </div>
   );
