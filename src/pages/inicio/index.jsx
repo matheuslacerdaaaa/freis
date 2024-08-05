@@ -69,6 +69,15 @@ function App() {
           </div>
 
 
+          
+          <div className="card5">
+            <Link className='vermelho' to='/quinto'></Link>
+
+            <h3>Media de notas</h3>
+            <p>Exercício 05</p>
+          </div>
+
+
         </span>
 
       </main>

@@ -51,42 +51,37 @@ export default function Quinto() {
 
                 <div className='caixa'>
 
-                    <div className='um'>
-                        <label htmlFor="order"><b>Primeira nota</b></label>
-                        <input type="text" placeholder='0' />
+
+                    <div className='grupo'>
+
+                        <div className='um'>
+                            <label htmlFor="order"><b>Primeira nota</b></label>
+                            <input type="text" placeholder='0' />
+                        </div>
+
+                        <div className='dois'>
+                            <label htmlFor="order"><b>Segundo nota</b></label>
+                            <input type="text" placeholder='0' />
+                        </div>
+
+
+                        <div className='tres'>
+                            <label htmlFor="order"><b>Terceiro Nota</b></label>
+                            <input type="text" placeholder='0' />
+                        </div>
+
                     </div>
 
-                    <div className='dois'>
-                        <label htmlFor="order"><b>Segunda nota</b></label>
-                        <input type="text" placeholder='0' />
+
+                    <div className='botao'>
+
+                        <button>Executar</button>
+
                     </div>
-
-
-                    <div className='tres'>
-                        <label htmlFor="order"><b>Terceira nota</b></label>
-                        <input type="text" placeholder='0' />
-                    </div>
-
-
-                    
-                <div className='botao'>
-
-<button>Executar</button>
-
-</div>
-
-
-
-        
-
 
                 </div>
 
-
-
-
                 <p className='p'><b>Resultado: o aluno passou?</b></p>
-
 
 
 
