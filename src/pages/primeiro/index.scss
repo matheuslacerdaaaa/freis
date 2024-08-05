@@ -50,9 +50,9 @@
 
 
     main{
-    background-color: #f6f6f6;
+       background-color: #cecece;
        width: 100vw;
-       height: 92.1;
+       height: 827px;
 
        img{
 
@@ -65,7 +65,7 @@
 
     .titulo{
 
-        margin: 40px 0px 0px 0px;  
+        padding: 40px 0px 0px 0px;  
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -100,11 +100,12 @@
     display: flex;
     align-items: center;
     margin: 20px 0px 0px 60px;
+    border-radius: 12px;
 
     p{
 
         
-        font: 400 14px 'Roboto';
+        font: 400 16px 'Roboto';
 
     }    
 

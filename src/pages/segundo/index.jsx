@@ -60,7 +60,7 @@ export default function Segundo() {
 
                 </div>
 
-                <p className='p'><b>Resultado: O total é R$ 0,00</b></p>
+                <p className='p'><b>Resultado: O total é 0.00</b></p>
 
                  
 

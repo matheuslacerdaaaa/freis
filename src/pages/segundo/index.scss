@@ -50,9 +50,9 @@
 
 
     main{
-    background-color: #f6f6f6;
+       background-color: #cecece;
        width: 100vw;
-       height: 92.1;
+       height: 827px;
 
        img{
 
@@ -65,7 +65,7 @@
 
     .titulo{
 
-        margin: 40px 0px 0px 0px;  
+        padding: 40px 0px 0px 0px;   
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -93,7 +93,8 @@
 
     .container{
 
-    background-color: #ffff;   
+    background-color: #ffff;  
+    border-radius: 12px; 
     width: 1090px;
     height: 213px;
     justify-content: center;
@@ -104,7 +105,7 @@
     p{
 
         
-        font: 400 14px 'Roboto';
+        font: 400 16px 'Roboto';
 
     }    
 
@@ -112,7 +113,7 @@
 
     .caixa{
 
-        width: 225px;
+        width: 450px;
         height: 200px;
         display: flex;
         flex-direction: column;

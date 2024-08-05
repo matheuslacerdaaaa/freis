@@ -50,9 +50,9 @@
 
 
     main{
-    background-color: #f6f6f6;
+    background-color: #cecece;
        width: 100vw;
-       height: 92.1;
+       height: 827px;
 
        img{
 
@@ -65,7 +65,7 @@
 
     .titulo{
 
-        margin: 40px 0px 0px 0px;  
+        padding: 40px 0px 0px 0px;  
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -96,6 +96,7 @@
     background-color: #ffff;   
     width: 1090px;
     height: 213px;
+    border-radius: 12px;
     text-align: center;
     display: flex;
     align-items: center;
@@ -104,7 +105,7 @@
     p{
 
         
-        font: 400 14px 'Roboto';
+        font: 400 16px 'Roboto';
 
     }    
 
@@ -176,6 +177,7 @@
            width: 600px;
            display: flex;
            justify-content: end;
+           padding-bottom: 15px;
         }
 
         .p{
